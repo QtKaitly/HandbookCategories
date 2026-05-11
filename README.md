@@ -2,7 +2,9 @@
 
 Robust handbook mod for Vintage Story. Designed for modpacks, providing a paginated, keyword-based filtering system for organizing entries. Reduces clutter and makes it easy to find the information you need, while reducing stuttering and lag spikes when loading the handbook with a large number of mods installed. Customizable in-game but with sensible defaults that work out of the box.
 
+*Currently in development.*
 
+---
 
 ## Planned Features
 
@@ -13,6 +15,7 @@ Robust handbook mod for Vintage Story. Designed for modpacks, providing a pagina
 - **Custom category tabs** — create as many handbook tabs as you like, each with its own name and colour.
 - **Sub-tabs** — Optionally organize entries by sub-category within each category tab.
 - **Hide recipes** — Reduce clutter by hiding recipes from the handbook, by mod groupings, keywords, or individually.
+- **Maybe more** — ???
 
 ---
 
@@ -22,7 +25,7 @@ Requirements: .NET 10 SDK and a copy of Vintage Story 1.22.
 
 ---
 
-## Compatibility
+## Compatibility and References
 
 - **Vintage Story**: 1.22
 - **Side**: Client only
