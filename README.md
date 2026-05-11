@@ -1,3 +1,9 @@
+# Kyatto's Handbook
+
+Robust handbook mod for Vintage Story. Designed for modpacks, providing a paginated, keyword-based filtering system for organizing entries. Reduces clutter and makes it easy to find the information you need, while reducing stuttering and lag spikes when loading the handbook with a large number of mods installed. Customizable in-game but with sensible defaults that work out of the box.
+
+
+
 ## Planned Features
 
 - **Reasonable Defaults** — automatically loads a set of default categories on first load.
